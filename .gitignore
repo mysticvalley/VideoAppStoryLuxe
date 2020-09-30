@@ -1,0 +1,17 @@
+.DS_Store.orig
+.DS_Store_BACKUP_29491
+.DS_Store_BASE_29491
+.DS_Store_LOCAL_29491
+.DS_Store_REMOTE_29491
+
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode2v3
+
+xcuserdata/
